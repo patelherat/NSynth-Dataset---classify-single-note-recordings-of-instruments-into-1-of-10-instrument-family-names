@@ -2,8 +2,8 @@
 There are 11 instrument families (e.g., mallet, organ, piano, strings, guitar, etc.), and 3 instrument source types (acoustic instrument sample, electronic instrument sample, or synthesized sample).
 <br/>
 Dataset:- https://magenta.tensorflow.org/datasets/nsynth <br/>
-Model 1:- Convolutional Neural Networks(CNN)
-Model 2:- Convolutional Neural Networks(CNN) + Long Short-Term Memory(LSTM) 
+Model 1:- Convolutional Neural Networks(CNN) <br/>
+Model 2:- Convolutional Neural Networks(CNN) + Long Short-Term Memory(LSTM) <br/>
 
 Visualizations:- <br/>
 •	Learning curves for training and validation data. <br/> 
